@@ -58,7 +58,7 @@ Soy **Jhorman Ascanio**, estudiante de Ingeniería de Sistemas en la **Universid
 
 ## 📫 Contacto
 
-- Email: jhorman.ascanio@ufpso.edu.co
+- Email: jhorman.ascanio09@gmail.com
 - LinkedIn: [Tu perfil aquí]
 
 ---
